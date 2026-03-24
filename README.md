@@ -71,8 +71,8 @@ Chương trình cài đặt và so sánh trực tiếp 3 thuật toán sau:
 ## 👥 Thành viên Nhóm (Nhóm 2)
 | STT | Họ và Tên | Mã Số Sinh Viên | Nhiệm vụ chính |
 | :--- | :--- | :--- | :--- |
-| 1 | Lê Thiên Lộc | 079306040024 | Thiết kế kiến trúc phần mềm, Cài đặt thuật toán Quy hoạch động, Quản lý Git |
-| 2 | Đỗ Đình Chiến | 51205005553 | Cài đặt thuật toán Tham lam & Quay lui nhánh cận |
-| 3 | Nguyễn Văn Vũ | 077206001635 | Thiết kế Giao diện (UI) và trải nghiệm người dùng |
-| 4 | Huỳnh Gia Huy | 079206018609 | Xây dựng bộ dữ liệu Test (chỉ số trang bị LOL), Phụ bạn Nguyễn Văn Vũ và Hoàng Văn Hưng |
-| 5 | Hoàng Văn Hưng | 040206020805 | Viết báo cáo phân tích độ phức tạp, giải thích các thuật toán đã dùng và cách tối ưu thuật toán, Chuẩn bị Slide thuyết trình |
+| 1 | Lê Thiên Lộc | 079306040024 | Thiết kế kiến trúc phần mềm, Cài đặt thuật toán Quy hoạch động (DP), Quản lý Git, Viết tài liệu phân tích thuật toán DP |
+| 2 | Đỗ Đình Chiến | 51205005553 | Cài đặt thuật toán Tham lam (Greedy), Viết tài liệu phân tích thuật toán Greedy |
+| 3 | Nguyễn Văn Vũ | 077206001635 | Thiết kế giao diện (UI/UX), Tích hợp hiển thị kết quả, Thực hiện slide thuyết trình 13-24 |
+| 4 | Huỳnh Gia Huy | 079206018609 | Xây dựng bộ dữ liệu test, Viết các phần báo cáo còn lại của dự án (trừ phân tích 3 thuật toán), Thực hiện slide 1-12, Hỗ trợ kiểm thử UI |
+| 5 | Hoàng Văn Hưng | 040206020805 | Cài đặt thuật toán Quay lui Nhánh cận (Branch and Bound), Viết tài liệu phân tích thuật toán B&B |
