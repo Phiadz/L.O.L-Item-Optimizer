@@ -139,8 +139,8 @@ python main.py
 
 | STT | Họ và tên | Nhiệm vụ chính |
 |---|---|---|
-| 1 | Lê Thiên Lộc | Thiết kế kiến trúc tổng thể, quản lý Git, thiết kế UI/UX bằng Tkinter/PyQt, tích hợp highlight đoạn đạo văn |
-| 2 | Đỗ Đình Chiến | Nghiên cứu, cài đặt và viết doc cho Brute-Force và KMP |
+| 1 | Lê Thiên Lộc | Thiết kế kiến trúc tổng thể, quản lý Git, thiết kế UI/UX bằng Tkinter/PyQt, tích hợp highlight đoạn đạo văn. Nghiên cứu, cài đặt và viết doc cho Brute-Force |
+| 2 | Đỗ Đình Chiến | Nghiên cứu, cài đặt và viết doc cho KMP |
 | 3 | Nguyễn Văn Vũ | Nghiên cứu, cài đặt và viết doc cho Rabin-Karp, phụ trách nửa sau slide thuyết trình |
 | 4 | Nguyễn Thái Lộc | Viết báo cáo phân tích độ phức tạp, so sánh 4 thuật toán, vẽ biểu đồ thực nghiệm |
 | 5 | Huỳnh Gia Huy | Xây dựng bộ dữ liệu test, crawl/tổng hợp kho text, viết script đo thời gian và tỷ lệ trùng lặp |
